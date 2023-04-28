@@ -9,6 +9,5 @@ The license I chose to use for this assignment was the GNU General Public Licens
 # Contributors
 The people who contributed to my assignment were:
 
-1:lol
-
+1:lol 
 2:lol
