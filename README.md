@@ -13,7 +13,7 @@ The license I chose to use for this assignment was the GNU General Public Licens
 The people who contributed to my assignment were:
 
 1. Jeremy Yamada: Fix ~~coduing~~ spelling error: coding. One idea I would suggest is to add some instructions to make basic shapes.
-2. 
+2. Gregory Fisher: I will provide an algorithm to guess what the user is drawing as they draw, similar to Pictionary.
 
 
 
