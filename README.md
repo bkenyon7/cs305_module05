@@ -12,4 +12,8 @@ The license I chose to use for this assignment was the GNU General Public Licens
 # Contributors
 The people who contributed to my assignment were:
 
-1. Jeremy Yamada
+1. Jeremy Yamada: Fix ~~coduing~~ spelling error: coding. One idea I would suggest is to add some instructions to make basic shapes.
+2. 
+
+
+
